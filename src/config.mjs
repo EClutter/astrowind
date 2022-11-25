@@ -1,12 +1,13 @@
 export const SITE = {
-	name: 'AstroWind',
+	name: 'Succinct Web Development',
 
-	origin: 'https://astrowind.vercel.app',
+	origin: 'https://succinct.dev',
 	basePathname: '/',
 	trailingSlash: false,
 
-	title: 'AstroWind — Your website with Astro + Tailwind CSS',
-	description: '🚀 AstroWind is a free and ready to start template to make your website using Astro and Tailwind CSS.',
+	title: 'Succinct Web Development',
+	description:
+		'Succinct Web Development is a web development company made up of a team of web developers and designers who are passionate about creating beautiful, functional websites and web applications.',
 
 	googleAnalyticsId: false, // or "G-XXXXXXXXXX",
 	googleSiteVerificationId: 'orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M',
